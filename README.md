@@ -11,3 +11,15 @@ The data used in this project comes from the [UCR](https://www.cs.ucr.edu/~eamon
 
 # Prerequisites
 All python packages needed are listed in [pip-requirements.txt](pip-requirements.txt) file and can be installed simply using the pip command.
+
+# Reference
+If you re-use this work, please cite:
+
+@inproceedings{li2022motif,
+  title={Motif-guided time series counterfactual explanations},
+  author={Li, Peiyu and Boubrahimi, Souka{\"\i}na Filali and Hamdi, Shah Muhammad},
+  booktitle={International Conference on Pattern Recognition},
+  pages={203--215},
+  year={2022},
+  organization={Springer}
+}
