@@ -8,3 +8,5 @@ This is the repository for our paper also available on [ArXiv](https://arxiv.org
 # Data
 The data used in this project comes from the [UCR](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/) archive.
 
+# Prerequisites
+All python packages needed are listed in [pip-requirements.txt](pip-requirements.txt) file and can be installed simply using the pip command.
