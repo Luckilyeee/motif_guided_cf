@@ -5,5 +5,6 @@ This is the repository for our paper also available on [ArXiv](https://arxiv.org
 # Approach
 ![Main_Figure](main_fig.png)
 
-
+# Data
+The data used in this project comes from the [UCR](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/) archive.
 
