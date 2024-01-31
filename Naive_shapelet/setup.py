@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='naive_shapelet_CF',
-    version='0.1.1',
+    version='0.1.0',
     packages=find_packages(),
     install_requires=[
         'pandas',
