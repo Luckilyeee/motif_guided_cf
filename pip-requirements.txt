@@ -2,7 +2,7 @@ pandas
 numpy
 tslearn
 pyts
-sklearn
+scikit-learn
 matplotlib
 scipy
 
