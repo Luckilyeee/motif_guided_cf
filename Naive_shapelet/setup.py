@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='naive_shapelet_CF',
+    name='naive_shapelet_cf',
     version='0.1.3',
     packages=find_packages(),
     install_requires=[
