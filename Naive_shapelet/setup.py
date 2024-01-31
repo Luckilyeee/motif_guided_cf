@@ -9,7 +9,7 @@ setup(
         'numpy',
         'tslearn',
         'pyts',
-        'sklearn',
+        'scikit-learn',
         'matplotlib',
         'scipy',
     ],
